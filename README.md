@@ -19,22 +19,6 @@ Building practical software, exploring artificial intelligence, and turning idea
 - Learning by building practical projects and exploring open-source technologies
 - Focused on clean, secure, and efficient software
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/muhammad-ahsan678/LOCAL-CHAT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-ahsan678&repo=LOCAL-CHAT&hide_border=true" alt="LOCAL-CHAT repository card">
-</a>
-
-<a href="https://github.com/muhammad-ahsan678/EchoForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammad-ahsan678&repo=EchoForge&hide_border=true" alt="EchoForge repository card">
-</a>
-
-</div>
-
-> Repository cards automatically reflect updated descriptions, languages, stars, and forks.
-
 ## Technologies
 
 ### Languages
